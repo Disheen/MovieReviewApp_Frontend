@@ -1,8 +1,32 @@
-# Getting Started with Create React App
+# Movie Review App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web application for movie enthusiasts to browse,, and write reviews of their favorite films. Movies are displayed on a carousel tab and users can select a movie to see details, watch a trailer, and write a review.
 
-## Available Scripts
+![Movie Review App Screenshot](./HomePage.png)
+
+## Features
+
+- Browse a catalog of movies stored in MongoDB
+- Read reviews written by other users
+- Write your own reviews and rate movies 
+- Watch movie trailers by clicking the play button
+- Select movies from the carousel tab
+
+# Movie Review App
+
+A web application for movie enthusiasts to browse,, and write reviews of their favorite films. Movies are displayed on a carousel tab and users can select a movie to see details, watch a trailer, and write a review.
+
+![Movie Review App Screenshot](./HomePage.png)
+
+## Features
+
+- Browse a catalog of movies stored in MongoDB
+- Read reviews written by other users
+- Write your own reviews and rate movies 
+- Watch movie trailers by clicking the play button
+- Select movies from the carousel 
+
+
 
 In the project directory, you can run:
 
